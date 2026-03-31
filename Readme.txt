@@ -4,7 +4,7 @@ Tags: checklist, workflow, admin, editor, productivity
 Requires at least: 5.8
 Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 2.4
+Stable tag: 2.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,11 +67,7 @@ WP Smart Checklist は、投稿やカスタム投稿タイプにチェックリスト機能を追加し、
 
 == Changelog ==
 
-= 2.4 =
-
-* テキスト修正
-
-= 2.2 =
+= 2.5 =
 
 * テキスト修正
 

@@ -2,7 +2,9 @@
 /*
 Plugin Name: WP Smart Checklist
 Description: 投稿の公開チェックリスト管理（進捗表示・フィルター・色分け・設定画面・投稿タイプ対応）
-Version: 2.5
+Version: 2.6
+Tested up to: 6.9.4
+Requires PHP: 8.3.23
 Author: masato shibuya(Image-box Co., Ltd.)
 */
 
